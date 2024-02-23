@@ -1,3 +1,3 @@
-![IshalaChan Picture](./img/ishalachan_icon.jpg "IshalaChan Icon"){width=250}
+![IshalaChan Picture](./img/ishalachan_icon%20_sm.jpg "IshalaChan Icon")
 
 # IshalaChan [Bot]!
