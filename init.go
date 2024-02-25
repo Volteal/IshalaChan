@@ -11,7 +11,7 @@ import (
 func initialize() (*discordgo.Session, string, error) {
 	godotenv.Load("./env/.env")
 
-	token := os.Getenv("API_KEY")
+	token := os.Getenv("TOKEN")
 	if token == "" {
 		log.Fatal("You forogt to set your api_key.")
 	}

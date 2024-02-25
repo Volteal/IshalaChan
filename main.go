@@ -2,9 +2,9 @@
 * Project: IshalaChan
 * Date: Friday, February 23, 2024
 * File: main.go
-* Author: Ieudru Volteal
+* Author: Volteal
 * - - - - -
-* Copyright © 2024 Ieudru Volteal
+* Copyright © 2024 Volteal
 * All Rights Reserved
  */
 
